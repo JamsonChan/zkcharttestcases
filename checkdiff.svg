@@ -9,47 +9,7 @@
 	<clipPath id="highcharts--102-">
 		<rect x="-100" y="-100" width="2110" height="600" fill="none"></rect>
 	</clipPath>
-	<radialGradient cx="0.4" cy="0.3" r="0.5" id="highcharts--105">
-		<stop offset="0" stop-color="#2caffe" stop-opacity="1"></stop>
-		<stop offset="1" stop-color="rgb(0,124,203)" stop-opacity="1"></stop>
-	</radialGradient>
-	<radialGradient cx="0.4" cy="0.3" r="0.5" id="highcharts--106">
-		<stop offset="0" stop-color="#544fc5" stop-opacity="1"></stop>
-		<stop offset="1" stop-color="rgb(33,28,146)" stop-opacity="1"></stop>
-	</radialGradient>
-	<radialGradient cx="0.4" cy="0.3" r="0.5" id="highcharts--107">
-		<stop offset="0" stop-color="#00e272" stop-opacity="1"></stop>
-		<stop offset="1" stop-color="rgb(0,175,63)" stop-opacity="1"></stop>
-	</radialGradient>
-	<radialGradient cx="0.4" cy="0.3" r="0.5" id="highcharts--108">
-		<stop offset="0" stop-color="#fe6a35" stop-opacity="1"></stop>
-		<stop offset="1" stop-color="rgb(203,55,2)" stop-opacity="1"></stop>
-	</radialGradient>
-	<radialGradient cx="0.4" cy="0.3" r="0.5" id="highcharts--109">
-		<stop offset="0" stop-color="#6b8abc" stop-opacity="1"></stop>
-		<stop offset="1" stop-color="rgb(56,87,137)" stop-opacity="1"></stop>
-	</radialGradient>
-	<radialGradient cx="0.4" cy="0.3" r="0.5" id="highcharts--110">
-		<stop offset="0" stop-color="#d568fb" stop-opacity="1"></stop>
-		<stop offset="1" stop-color="rgb(162,53,200)" stop-opacity="1"></stop>
-	</radialGradient>
-	<radialGradient cx="0.4" cy="0.3" r="0.5" id="highcharts--111">
-		<stop offset="0" stop-color="#2ee0ca" stop-opacity="1"></stop>
-		<stop offset="1" stop-color="rgb(0,173,151)" stop-opacity="1"></stop>
-	</radialGradient>
-	<radialGradient cx="0.4" cy="0.3" r="0.5" id="highcharts--112">
-		<stop offset="0" stop-color="#fa4b42" stop-opacity="1"></stop>
-		<stop offset="1" stop-color="rgb(199,24,15)" stop-opacity="1"></stop>
-	</radialGradient>
-	<radialGradient cx="0.4" cy="0.3" r="0.5" id="highcharts--113">
-		<stop offset="0" stop-color="#feb56a" stop-opacity="1"></stop>
-		<stop offset="1" stop-color="rgb(203,130,55)" stop-opacity="1"></stop>
-	</radialGradient>
-	<radialGradient cx="0.4" cy="0.3" r="0.5" id="highcharts--114">
-		<stop offset="0" stop-color="#91e8e1" stop-opacity="1"></stop>
-		<stop offset="1" stop-color="rgb(94,181,174)" stop-opacity="1"></stop>
-	</radialGradient>
-	<clipPath id="highcharts--115-">
+	<clipPath id="highcharts--105-">
 		<rect x="100" y="100" width="1710" height="200" fill="none"></rect>
 	</clipPath>
 </defs>
@@ -217,305 +177,305 @@
 	   opacity="1" transform="translate(100,100) scale(1 1)" clip-path="url(#highcharts--102-)"></g>
 	<g class="highcharts-markers highcharts-series-0 highcharts-scatter3d-series highcharts-tracker" data-z-index="0.1"
 	   opacity="1" transform="translate(100,100) scale(1 1)" clip-path="none">
-		<path fill="url(#highcharts--111)" d="M 397 58 A 4 4 0 1 1 397.00399999933336 57.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="980.0244859323539"
+		<path fill="#2ee0ca" d="M 397 58 A 4 4 0 1 1 397.00399999933336 57.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="980.0244859323539"
 		      class="highcharts-point highcharts-color-6"></path>
-		<path fill="url(#highcharts--114)" d="M 372 102 A 4 4 0 1 1 372.00399999933336 101.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1019.060995634164"
+		<path fill="#91e8e1" d="M 372 102 A 4 4 0 1 1 372.00399999933336 101.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1019.060995634164"
 		      class="highcharts-point highcharts-color-9"></path>
-		<path fill="url(#highcharts--106)" d="M 343 107 A 4 4 0 1 1 343.00399999933336 106.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1070.1979706532163"
+		<path fill="#544fc5" d="M 343 107 A 4 4 0 1 1 343.00399999933336 106.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1070.1979706532163"
 		      class="highcharts-point highcharts-color-1"></path>
-		<path fill="url(#highcharts--114)" d="M 327 96 A 4 4 0 1 1 327.00399999933336 95.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1099.5817417298392"
+		<path fill="#91e8e1" d="M 327 96 A 4 4 0 1 1 327.00399999933336 95.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1099.5817417298392"
 		      class="highcharts-point highcharts-color-9"></path>
-		<path fill="url(#highcharts--106)" d="M 542 95 A 4 4 0 1 1 542.0039999993334 94.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1117.4294612891492"
+		<path fill="#544fc5" d="M 542 95 A 4 4 0 1 1 542.0039999993334 94.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1117.4294612891492"
 		      class="highcharts-point highcharts-color-1"></path>
-		<path fill="url(#highcharts--105)" d="M 421 46 A 4 4 0 1 1 421.00399999933336 45.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1129.7294786100829"
+		<path fill="#2caffe" d="M 421 46 A 4 4 0 1 1 421.00399999933336 45.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1129.7294786100829"
 		      class="highcharts-point highcharts-color-0"></path>
-		<path fill="url(#highcharts--110)" d="M 530 127 A 4 4 0 1 1 530.0039999993334 126.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1134.8319055422514"
+		<path fill="#d568fb" d="M 530 127 A 4 4 0 1 1 530.0039999993334 126.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1134.8319055422514"
 		      class="highcharts-point highcharts-color-5"></path>
-		<path fill="url(#highcharts--107)" d="M 411 121 A 4 4 0 1 1 411.00399999933336 120.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1135.962478532829"
+		<path fill="#00e272" d="M 411 121 A 4 4 0 1 1 411.00399999933336 120.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1135.962478532829"
 		      class="highcharts-point highcharts-color-2"></path>
-		<path fill="url(#highcharts--108)" d="M 666 70 A 4 4 0 1 1 666.0039999993334 69.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1137.6360116359815"
+		<path fill="#fe6a35" d="M 666 70 A 4 4 0 1 1 666.0039999993334 69.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1137.6360116359815"
 		      class="highcharts-point highcharts-color-3"></path>
-		<path fill="url(#highcharts--112)" d="M 666 70 A 4 4 0 1 1 666.0039999993334 69.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1137.6360116359815"
+		<path fill="#fa4b42" d="M 666 70 A 4 4 0 1 1 666.0039999993334 69.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1137.6360116359815"
 		      class="highcharts-point highcharts-color-7"></path>
-		<path fill="url(#highcharts--114)" d="M 529 112 A 4 4 0 1 1 529.0039999993334 111.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1138.1517303031344"
+		<path fill="#91e8e1" d="M 529 112 A 4 4 0 1 1 529.0039999993334 111.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1138.1517303031344"
 		      class="highcharts-point highcharts-color-9"></path>
-		<path fill="url(#highcharts--107)" d="M 409 92 A 4 4 0 1 1 409.00399999933336 91.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1143.001762936789"
+		<path fill="#00e272" d="M 409 92 A 4 4 0 1 1 409.00399999933336 91.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1143.001762936789"
 		      class="highcharts-point highcharts-color-2"></path>
-		<path fill="url(#highcharts--112)" d="M 654 87 A 4 4 0 1 1 654.0039999993334 86.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1156.828348851731"
+		<path fill="#fa4b42" d="M 654 87 A 4 4 0 1 1 654.0039999993334 86.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1156.828348851731"
 		      class="highcharts-point highcharts-color-7"></path>
-		<path fill="url(#highcharts--105)" d="M 525 22 A 4 4 0 1 1 525.0039999993334 21.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1162.1665273201993"
+		<path fill="#2caffe" d="M 525 22 A 4 4 0 1 1 525.0039999993334 21.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1162.1665273201993"
 		      class="highcharts-point highcharts-color-0"></path>
-		<path fill="url(#highcharts--105)" d="M 515 100 A 4 4 0 1 1 515.0039999993334 99.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1166.0516892264106"
+		<path fill="#2caffe" d="M 515 100 A 4 4 0 1 1 515.0039999993334 99.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1166.0516892264106"
 		      class="highcharts-point highcharts-color-0"></path>
-		<path fill="url(#highcharts--111)" d="M 292 44 A 4 4 0 1 1 292.00399999933336 43.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1167.6395131645938"
+		<path fill="#2ee0ca" d="M 292 44 A 4 4 0 1 1 292.00399999933336 43.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1167.6395131645938"
 		      class="highcharts-point highcharts-color-6"></path>
-		<path fill="url(#highcharts--110)" d="M 643 136 A 4 4 0 1 1 643.0039999993334 135.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1169.866229106434"
+		<path fill="#d568fb" d="M 643 136 A 4 4 0 1 1 643.0039999993334 135.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1169.866229106434"
 		      class="highcharts-point highcharts-color-5"></path>
-		<path fill="url(#highcharts--110)" d="M 652 26 A 4 4 0 1 1 652.0039999993334 25.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1173.3118694745917"
+		<path fill="#d568fb" d="M 652 26 A 4 4 0 1 1 652.0039999993334 25.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1173.3118694745917"
 		      class="highcharts-point highcharts-color-5"></path>
-		<path fill="url(#highcharts--113)" d="M 652 10 A 4 4 0 1 1 652.0039999993334 9.999998000000167 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1177.9438608591147"
+		<path fill="#feb56a" d="M 652 10 A 4 4 0 1 1 652.0039999993334 9.999998000000167 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1177.9438608591147"
 		      class="highcharts-point highcharts-color-8"></path>
-		<path fill="url(#highcharts--113)" d="M 640 43 A 4 4 0 1 1 640.0039999993334 42.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1191.9586990358014"
+		<path fill="#feb56a" d="M 640 43 A 4 4 0 1 1 640.0039999993334 42.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1191.9586990358014"
 		      class="highcharts-point highcharts-color-8"></path>
-		<path fill="url(#highcharts--113)" d="M 630 140 A 4 4 0 1 1 630.0039999993334 139.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1193.2674649663277"
+		<path fill="#feb56a" d="M 630 140 A 4 4 0 1 1 630.0039999993334 139.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1193.2674649663277"
 		      class="highcharts-point highcharts-color-8"></path>
-		<path fill="url(#highcharts--110)" d="M 639 28 A 4 4 0 1 1 639.0039999993334 27.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1196.358475137447"
+		<path fill="#d568fb" d="M 639 28 A 4 4 0 1 1 639.0039999993334 27.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1196.358475137447"
 		      class="highcharts-point highcharts-color-5"></path>
-		<path fill="url(#highcharts--106)" d="M 488 137 A 4 4 0 1 1 488.00399999933336 136.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1208.639971046804"
+		<path fill="#544fc5" d="M 488 137 A 4 4 0 1 1 488.00399999933336 136.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1208.639971046804"
 		      class="highcharts-point highcharts-color-1"></path>
-		<path fill="url(#highcharts--112)" d="M 486 106 A 4 4 0 1 1 486.00399999933336 105.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1215.3044779818063"
+		<path fill="#fa4b42" d="M 486 106 A 4 4 0 1 1 486.00399999933336 105.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1215.3044779818063"
 		      class="highcharts-point highcharts-color-7"></path>
-		<path fill="url(#highcharts--106)" d="M 486 106 A 4 4 0 1 1 486.00399999933336 105.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1215.3044779818063"
+		<path fill="#544fc5" d="M 486 106 A 4 4 0 1 1 486.00399999933336 105.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1215.3044779818063"
 		      class="highcharts-point highcharts-color-1"></path>
-		<path fill="url(#highcharts--114)" d="M 373 7 A 4 4 0 1 1 373.00399999933336 6.999998000000167 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1219.5008499172618"
+		<path fill="#91e8e1" d="M 373 7 A 4 4 0 1 1 373.00399999933336 6.999998000000167 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1219.5008499172618"
 		      class="highcharts-point highcharts-color-9"></path>
-		<path fill="url(#highcharts--108)" d="M 258 34 A 4 4 0 1 1 258.00399999933336 33.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1224.954582664021"
+		<path fill="#fe6a35" d="M 258 34 A 4 4 0 1 1 258.00399999933336 33.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1224.954582664021"
 		      class="highcharts-point highcharts-color-3"></path>
-		<path fill="url(#highcharts--113)" d="M 626 14 A 4 4 0 1 1 626.0039999993334 13.999998000000167 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1224.1199982275264"
+		<path fill="#feb56a" d="M 626 14 A 4 4 0 1 1 626.0039999993334 13.999998000000167 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1224.1199982275264"
 		      class="highcharts-point highcharts-color-8"></path>
-		<path fill="url(#highcharts--110)" d="M 483 43 A 4 4 0 1 1 483.00399999933336 42.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1231.0140915211118"
+		<path fill="#d568fb" d="M 483 43 A 4 4 0 1 1 483.00399999933336 42.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1231.0140915211118"
 		      class="highcharts-point highcharts-color-5"></path>
-		<path fill="url(#highcharts--108)" d="M 764 66 A 4 4 0 1 1 764.0039999993334 65.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1234.2405686506174"
+		<path fill="#fe6a35" d="M 764 66 A 4 4 0 1 1 764.0039999993334 65.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1234.2405686506174"
 		      class="highcharts-point highcharts-color-3"></path>
-		<path fill="url(#highcharts--114)" d="M 614 64 A 4 4 0 1 1 614.0039999993334 63.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1234.374046446478"
+		<path fill="#91e8e1" d="M 614 64 A 4 4 0 1 1 614.0039999993334 63.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1234.374046446478"
 		      class="highcharts-point highcharts-color-9"></path>
-		<path fill="url(#highcharts--109)" d="M 753 151 A 4 4 0 1 1 753.0039999993334 150.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1239.304609835998"
+		<path fill="#6b8abc" d="M 753 151 A 4 4 0 1 1 753.0039999993334 150.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1239.304609835998"
 		      class="highcharts-point highcharts-color-4"></path>
-		<path fill="url(#highcharts--112)" d="M 752 69 A 4 4 0 1 1 752.0039999993334 68.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1256.323889848543"
+		<path fill="#fa4b42" d="M 752 69 A 4 4 0 1 1 752.0039999993334 68.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1256.323889848543"
 		      class="highcharts-point highcharts-color-7"></path>
-		<path fill="url(#highcharts--111)" d="M 752 69 A 4 4 0 1 1 752.0039999993334 68.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1256.323889848543"
+		<path fill="#2ee0ca" d="M 752 69 A 4 4 0 1 1 752.0039999993334 68.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1256.323889848543"
 		      class="highcharts-point highcharts-color-6"></path>
-		<path fill="url(#highcharts--108)" d="M 457 144 A 4 4 0 1 1 457.00399999933336 143.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1258.7005957891092"
+		<path fill="#fe6a35" d="M 457 144 A 4 4 0 1 1 457.00399999933336 143.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1258.7005957891092"
 		      class="highcharts-point highcharts-color-3"></path>
-		<path fill="url(#highcharts--112)" d="M 751 19 A 4 4 0 1 1 751.0039999993334 18.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1269.1245087031987"
+		<path fill="#fa4b42" d="M 751 19 A 4 4 0 1 1 751.0039999993334 18.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1269.1245087031987"
 		      class="highcharts-point highcharts-color-7"></path>
-		<path fill="url(#highcharts--113)" d="M 453 64 A 4 4 0 1 1 453.00399999933336 63.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1276.5955428244877"
+		<path fill="#feb56a" d="M 453 64 A 4 4 0 1 1 453.00399999933336 63.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1276.5955428244877"
 		      class="highcharts-point highcharts-color-8"></path>
-		<path fill="url(#highcharts--113)" d="M 587 86 A 4 4 0 1 1 587.0039999993334 85.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1277.6968999207734"
+		<path fill="#feb56a" d="M 587 86 A 4 4 0 1 1 587.0039999993334 85.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1277.6968999207734"
 		      class="highcharts-point highcharts-color-8"></path>
-		<path fill="url(#highcharts--110)" d="M 576 171 A 4 4 0 1 1 576.0039999993334 170.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1285.5460626408105"
+		<path fill="#d568fb" d="M 576 171 A 4 4 0 1 1 576.0039999993334 170.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1285.5460626408105"
 		      class="highcharts-point highcharts-color-5"></path>
-		<path fill="url(#highcharts--109)" d="M 585 36 A 4 4 0 1 1 585.0039999993334 35.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1289.9449060231536"
+		<path fill="#6b8abc" d="M 585 36 A 4 4 0 1 1 585.0039999993334 35.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1289.9449060231536"
 		      class="highcharts-point highcharts-color-4"></path>
-		<path fill="url(#highcharts--107)" d="M 898 40 A 4 4 0 1 1 898.0039999993334 39.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1302.4153819080423"
+		<path fill="#00e272" d="M 898 40 A 4 4 0 1 1 898.0039999993334 39.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1302.4153819080423"
 		      class="highcharts-point highcharts-color-2"></path>
-		<path fill="url(#highcharts--112)" d="M 572 72 A 4 4 0 1 1 572.0039999993334 71.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1305.400203319476"
+		<path fill="#fa4b42" d="M 572 72 A 4 4 0 1 1 572.0039999993334 71.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1305.400203319476"
 		      class="highcharts-point highcharts-color-7"></path>
-		<path fill="url(#highcharts--111)" d="M 715 94 A 4 4 0 1 1 715.0039999993334 93.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1319.5618972086381"
+		<path fill="#2ee0ca" d="M 715 94 A 4 4 0 1 1 715.0039999993334 93.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1319.5618972086381"
 		      class="highcharts-point highcharts-color-6"></path>
-		<path fill="url(#highcharts--105)" d="M 714 25 A 4 4 0 1 1 714.0039999993334 24.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1335.816302468814"
+		<path fill="#2caffe" d="M 714 25 A 4 4 0 1 1 714.0039999993334 24.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1335.816302468814"
 		      class="highcharts-point highcharts-color-0"></path>
-		<path fill="url(#highcharts--109)" d="M 877 62 A 4 4 0 1 1 877.0039999993334 61.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1340.1305067660855"
+		<path fill="#6b8abc" d="M 877 62 A 4 4 0 1 1 877.0039999993334 61.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1340.1305067660855"
 		      class="highcharts-point highcharts-color-4"></path>
-		<path fill="url(#highcharts--113)" d="M 543 112 A 4 4 0 1 1 543.0039999993334 111.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1346.241445665683"
+		<path fill="#feb56a" d="M 543 112 A 4 4 0 1 1 543.0039999993334 111.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1346.241445665683"
 		      class="highcharts-point highcharts-color-8"></path>
-		<path fill="url(#highcharts--111)" d="M 689 118 A 4 4 0 1 1 689.0039999993334 117.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1361.5081709566527"
+		<path fill="#2ee0ca" d="M 689 118 A 4 4 0 1 1 689.0039999993334 117.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1361.5081709566527"
 		      class="highcharts-point highcharts-color-6"></path>
-		<path fill="url(#highcharts--106)" d="M 676 175 A 4 4 0 1 1 676.0039999993334 174.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1375.6693637621956"
+		<path fill="#544fc5" d="M 676 175 A 4 4 0 1 1 676.0039999993334 174.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1375.6693637621956"
 		      class="highcharts-point highcharts-color-1"></path>
-		<path fill="url(#highcharts--106)" d="M 687 47 A 4 4 0 1 1 687.0039999993334 46.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1376.5852570544039"
+		<path fill="#544fc5" d="M 687 47 A 4 4 0 1 1 687.0039999993334 46.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1376.5852570544039"
 		      class="highcharts-point highcharts-color-1"></path>
-		<path fill="url(#highcharts--107)" d="M 1036 32 A 4 4 0 1 1 1036.0039999993332 31.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1401.5348581116373"
+		<path fill="#00e272" d="M 1036 32 A 4 4 0 1 1 1036.0039999993332 31.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1401.5348581116373"
 		      class="highcharts-point highcharts-color-2"></path>
-		<path fill="url(#highcharts--107)" d="M 1036 32 A 4 4 0 1 1 1036.0039999993332 31.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1401.5348581116373"
+		<path fill="#00e272" d="M 1036 32 A 4 4 0 1 1 1036.0039999993332 31.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1401.5348581116373"
 		      class="highcharts-point highcharts-color-2"></path>
-		<path fill="url(#highcharts--107)" d="M 1025 125 A 4 4 0 1 1 1025.0039999993332 124.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1402.3677983918776"
+		<path fill="#00e272" d="M 1025 125 A 4 4 0 1 1 1025.0039999993332 124.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1402.3677983918776"
 		      class="highcharts-point highcharts-color-2"></path>
-		<path fill="url(#highcharts--114)" d="M 661 144 A 4 4 0 1 1 661.0039999993334 143.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1404.4434427408278"
+		<path fill="#91e8e1" d="M 661 144 A 4 4 0 1 1 661.0039999993334 143.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1404.4434427408278"
 		      class="highcharts-point highcharts-color-9"></path>
-		<path fill="url(#highcharts--114)" d="M 831 129 A 4 4 0 1 1 831.0039999993334 128.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1414.5931984090641"
+		<path fill="#91e8e1" d="M 831 129 A 4 4 0 1 1 831.0039999993334 128.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1414.5931984090641"
 		      class="highcharts-point highcharts-color-9"></path>
-		<path fill="url(#highcharts--105)" d="M 819 189 A 4 4 0 1 1 819.0039999993334 188.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1428.04253983679"
+		<path fill="#2caffe" d="M 819 189 A 4 4 0 1 1 819.0039999993334 188.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1428.04253983679"
 		      class="highcharts-point highcharts-color-0"></path>
-		<path fill="url(#highcharts--105)" d="M 1017 92 A 4 4 0 1 1 1017.0039999993334 91.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1429.3661809718344"
+		<path fill="#2caffe" d="M 1017 92 A 4 4 0 1 1 1017.0039999993334 91.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1429.3661809718344"
 		      class="highcharts-point highcharts-color-0"></path>
-		<path fill="url(#highcharts--109)" d="M 1006 189 A 4 4 0 1 1 1006.0039999993334 188.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1434.515665716742"
+		<path fill="#6b8abc" d="M 1006 189 A 4 4 0 1 1 1006.0039999993334 188.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1434.515665716742"
 		      class="highcharts-point highcharts-color-4"></path>
-		<path fill="url(#highcharts--113)" d="M 819 133 A 4 4 0 1 1 819.0039999993334 132.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1436.2370956428977"
+		<path fill="#feb56a" d="M 819 133 A 4 4 0 1 1 819.0039999993334 132.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1436.2370956428977"
 		      class="highcharts-point highcharts-color-8"></path>
-		<path fill="url(#highcharts--108)" d="M 819 133 A 4 4 0 1 1 819.0039999993334 132.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1436.2370956428977"
+		<path fill="#fe6a35" d="M 819 133 A 4 4 0 1 1 819.0039999993334 132.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1436.2370956428977"
 		      class="highcharts-point highcharts-color-3"></path>
-		<path fill="url(#highcharts--110)" d="M 997 175 A 4 4 0 1 1 997.0039999993334 174.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1457.4816067802215"
+		<path fill="#d568fb" d="M 997 175 A 4 4 0 1 1 997.0039999993334 174.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1457.4816067802215"
 		      class="highcharts-point highcharts-color-5"></path>
-		<path fill="url(#highcharts--110)" d="M 1009 39 A 4 4 0 1 1 1009.0039999993334 38.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1461.4366537122003"
+		<path fill="#d568fb" d="M 1009 39 A 4 4 0 1 1 1009.0039999993334 38.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1461.4366537122003"
 		      class="highcharts-point highcharts-color-5"></path>
-		<path fill="url(#highcharts--114)" d="M 999 61 A 4 4 0 1 1 999.0039999993334 60.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1477.345836025586"
+		<path fill="#91e8e1" d="M 999 61 A 4 4 0 1 1 999.0039999993334 60.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1477.345836025586"
 		      class="highcharts-point highcharts-color-9"></path>
-		<path fill="url(#highcharts--105)" d="M 999 41 A 4 4 0 1 1 999.0039999993334 40.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1481.5318207177377"
+		<path fill="#2caffe" d="M 999 41 A 4 4 0 1 1 999.0039999993334 40.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1481.5318207177377"
 		      class="highcharts-point highcharts-color-0"></path>
-		<path fill="url(#highcharts--112)" d="M 793 123 A 4 4 0 1 1 793.0039999993334 122.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1483.0040209834701"
+		<path fill="#fa4b42" d="M 793 123 A 4 4 0 1 1 793.0039999993334 122.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1483.0040209834701"
 		      class="highcharts-point highcharts-color-7"></path>
-		<path fill="url(#highcharts--110)" d="M 1187 175 A 4 4 0 1 1 1187.0039999993332 174.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1487.0249164729603"
+		<path fill="#d568fb" d="M 1187 175 A 4 4 0 1 1 1187.0039999993332 174.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1487.0249164729603"
 		      class="highcharts-point highcharts-color-5"></path>
-		<path fill="url(#highcharts--114)" d="M 976 204 A 4 4 0 1 1 976.0039999993334 203.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1496.2965812347709"
+		<path fill="#91e8e1" d="M 976 204 A 4 4 0 1 1 976.0039999993334 203.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1496.2965812347709"
 		      class="highcharts-point highcharts-color-9"></path>
-		<path fill="url(#highcharts--109)" d="M 1191 80 A 4 4 0 1 1 1191.0039999993332 79.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1503.4612987174362"
+		<path fill="#6b8abc" d="M 1191 80 A 4 4 0 1 1 1191.0039999993332 79.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1503.4612987174362"
 		      class="highcharts-point highcharts-color-4"></path>
-		<path fill="url(#highcharts--107)" d="M 978 87 A 4 4 0 1 1 978.0039999993334 86.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1513.9713116215921"
+		<path fill="#00e272" d="M 978 87 A 4 4 0 1 1 978.0039999993334 86.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1513.9713116215921"
 		      class="highcharts-point highcharts-color-2"></path>
-		<path fill="url(#highcharts--105)" d="M 966 229 A 4 4 0 1 1 966.0039999993334 228.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1515.075661491494"
+		<path fill="#2caffe" d="M 966 229 A 4 4 0 1 1 966.0039999993334 228.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1515.075661491494"
 		      class="highcharts-point highcharts-color-0"></path>
-		<path fill="url(#highcharts--108)" d="M 966 229 A 4 4 0 1 1 966.0039999993334 228.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1515.075661491494"
+		<path fill="#fe6a35" d="M 966 229 A 4 4 0 1 1 966.0039999993334 228.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1515.075661491494"
 		      class="highcharts-point highcharts-color-3"></path>
-		<path fill="url(#highcharts--105)" d="M 979 67 A 4 4 0 1 1 979.0039999993334 66.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1517.8171403029878"
+		<path fill="#2caffe" d="M 979 67 A 4 4 0 1 1 979.0039999993334 66.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1517.8171403029878"
 		      class="highcharts-point highcharts-color-0"></path>
-		<path fill="url(#highcharts--107)" d="M 1173 185 A 4 4 0 1 1 1173.0039999993332 184.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1526.1705158355608"
+		<path fill="#00e272" d="M 1173 185 A 4 4 0 1 1 1173.0039999993332 184.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1526.1705158355608"
 		      class="highcharts-point highcharts-color-2"></path>
-		<path fill="url(#highcharts--106)" d="M 956 175 A 4 4 0 1 1 956.0039999993334 174.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1542.5185095869251"
+		<path fill="#544fc5" d="M 956 175 A 4 4 0 1 1 956.0039999993334 174.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1542.5185095869251"
 		      class="highcharts-point highcharts-color-1"></path>
-		<path fill="url(#highcharts--112)" d="M 957 73 A 4 4 0 1 1 957.0039999993334 72.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1558.5872780066752"
+		<path fill="#fa4b42" d="M 957 73 A 4 4 0 1 1 957.0039999993334 72.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1558.5872780066752"
 		      class="highcharts-point highcharts-color-7"></path>
-		<path fill="url(#highcharts--111)" d="M 1157 235 A 4 4 0 1 1 1157.0039999993332 234.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1561.223866297414"
+		<path fill="#2ee0ca" d="M 1157 235 A 4 4 0 1 1 1157.0039999993332 234.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1561.223866297414"
 		      class="highcharts-point highcharts-color-6"></path>
-		<path fill="url(#highcharts--113)" d="M 957 53 A 4 4 0 1 1 957.0039999993334 52.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1562.615201499687"
+		<path fill="#feb56a" d="M 957 53 A 4 4 0 1 1 957.0039999993334 52.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1562.615201499687"
 		      class="highcharts-point highcharts-color-8"></path>
-		<path fill="url(#highcharts--105)" d="M 1162 114 A 4 4 0 1 1 1162.0039999993332 113.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1577.2197591635556"
+		<path fill="#2caffe" d="M 1162 114 A 4 4 0 1 1 1162.0039999993332 113.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1577.2197591635556"
 		      class="highcharts-point highcharts-color-0"></path>
-		<path fill="url(#highcharts--109)" d="M 1165 53 A 4 4 0 1 1 1165.0039999993332 52.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1588.762050760451"
+		<path fill="#6b8abc" d="M 1165 53 A 4 4 0 1 1 1165.0039999993332 52.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1588.762050760451"
 		      class="highcharts-point highcharts-color-4"></path>
-		<path fill="url(#highcharts--106)" d="M 1369 94 A 4 4 0 1 1 1369.0039999993332 93.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1632.5074472053693"
+		<path fill="#544fc5" d="M 1369 94 A 4 4 0 1 1 1369.0039999993332 93.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1632.5074472053693"
 		      class="highcharts-point highcharts-color-1"></path>
-		<path fill="url(#highcharts--109)" d="M 1371 73 A 4 4 0 1 1 1371.0039999993332 72.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1636.532942376588"
+		<path fill="#6b8abc" d="M 1371 73 A 4 4 0 1 1 1371.0039999993332 72.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1636.532942376588"
 		      class="highcharts-point highcharts-color-4"></path>
-		<path fill="url(#highcharts--112)" d="M 1372 52 A 4 4 0 1 1 1372.0039999993332 51.99999800000017 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1640.8222594153171"
+		<path fill="#fa4b42" d="M 1372 52 A 4 4 0 1 1 1372.0039999993332 51.99999800000017 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1640.8222594153171"
 		      class="highcharts-point highcharts-color-7"></path>
-		<path fill="url(#highcharts--111)" d="M 1363 80 A 4 4 0 1 1 1363.0039999993332 79.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1674.4861817687618"
+		<path fill="#2ee0ca" d="M 1363 80 A 4 4 0 1 1 1363.0039999993332 79.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1674.4861817687618"
 		      class="highcharts-point highcharts-color-6"></path>
-		<path fill="url(#highcharts--108)" d="M 1122 114 A 4 4 0 1 1 1122.0039999993332 113.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1678.400656020424"
+		<path fill="#fe6a35" d="M 1122 114 A 4 4 0 1 1 1122.0039999993332 113.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1678.400656020424"
 		      class="highcharts-point highcharts-color-3"></path>
-		<path fill="url(#highcharts--111)" d="M 1342 203 A 4 4 0 1 1 1342.0039999993332 202.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1715.5598288385613"
+		<path fill="#2ee0ca" d="M 1342 203 A 4 4 0 1 1 1342.0039999993332 202.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1715.5598288385613"
 		      class="highcharts-point highcharts-color-6"></path>
-		<path fill="url(#highcharts--108)" d="M 1338 187 A 4 4 0 1 1 1338.0039999993332 186.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1737.5484536692634"
+		<path fill="#fe6a35" d="M 1338 187 A 4 4 0 1 1 1338.0039999993332 186.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1737.5484536692634"
 		      class="highcharts-point highcharts-color-3"></path>
-		<path fill="url(#highcharts--108)" d="M 1346 73 A 4 4 0 1 1 1346.0039999993332 72.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1754.73014632036"
+		<path fill="#fe6a35" d="M 1346 73 A 4 4 0 1 1 1346.0039999993332 72.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1754.73014632036"
 		      class="highcharts-point highcharts-color-3"></path>
-		<path fill="url(#highcharts--108)" d="M 1332 216 A 4 4 0 1 1 1332.0039999993332 215.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1754.4830235798795"
+		<path fill="#fe6a35" d="M 1332 216 A 4 4 0 1 1 1332.0039999993332 215.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1754.4830235798795"
 		      class="highcharts-point highcharts-color-3"></path>
-		<path fill="url(#highcharts--113)" d="M 1336 147 A 4 4 0 1 1 1336.0039999993332 146.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1762.7526614970752"
+		<path fill="#feb56a" d="M 1336 147 A 4 4 0 1 1 1336.0039999993332 146.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1762.7526614970752"
 		      class="highcharts-point highcharts-color-8"></path>
-		<path fill="url(#highcharts--114)" d="M 1341 77 A 4 4 0 1 1 1341.0039999993332 76.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1773.7832434163918"
+		<path fill="#91e8e1" d="M 1341 77 A 4 4 0 1 1 1341.0039999993332 76.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1773.7832434163918"
 		      class="highcharts-point highcharts-color-9"></path>
-		<path fill="url(#highcharts--112)" d="M 1576 87 A 4 4 0 1 1 1576.0039999993332 86.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1788.9204096815681"
+		<path fill="#fa4b42" d="M 1576 87 A 4 4 0 1 1 1576.0039999993332 86.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1788.9204096815681"
 		      class="highcharts-point highcharts-color-7"></path>
-		<path fill="url(#highcharts--111)" d="M 1316 300 A 4 4 0 1 1 1316.0039999993332 299.9999980000002 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1788.6437778601457"
+		<path fill="#2ee0ca" d="M 1316 300 A 4 4 0 1 1 1316.0039999993332 299.9999980000002 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1788.6437778601457"
 		      class="highcharts-point highcharts-color-6"></path>
-		<path fill="url(#highcharts--106)" d="M 1578 72 A 4 4 0 1 1 1578.0039999993332 71.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1832.1557682460668"
+		<path fill="#544fc5" d="M 1578 72 A 4 4 0 1 1 1578.0039999993332 71.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1832.1557682460668"
 		      class="highcharts-point highcharts-color-1"></path>
-		<path fill="url(#highcharts--109)" d="M 1573 123 A 4 4 0 1 1 1573.0039999993332 122.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1843.2606853305872"
+		<path fill="#6b8abc" d="M 1573 123 A 4 4 0 1 1 1573.0039999993332 122.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1843.2606853305872"
 		      class="highcharts-point highcharts-color-4"></path>
-		<path fill="url(#highcharts--106)" d="M 1558 276 A 4 4 0 1 1 1558.0039999993332 275.9999980000002 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1865.4411164205874"
+		<path fill="#544fc5" d="M 1558 276 A 4 4 0 1 1 1558.0039999993332 275.9999980000002 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1865.4411164205874"
 		      class="highcharts-point highcharts-color-1"></path>
-		<path fill="url(#highcharts--107)" d="M 1572 133 A 4 4 0 1 1 1572.0039999993332 132.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1882.5009473168432"
+		<path fill="#00e272" d="M 1572 133 A 4 4 0 1 1 1572.0039999993332 132.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1882.5009473168432"
 		      class="highcharts-point highcharts-color-2"></path>
-		<path fill="url(#highcharts--107)" d="M 1561 252 A 4 4 0 1 1 1561.0039999993332 251.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1930.1447708304415"
+		<path fill="#00e272" d="M 1561 252 A 4 4 0 1 1 1561.0039999993332 251.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1930.1447708304415"
 		      class="highcharts-point highcharts-color-2"></path>
-		<path fill="url(#highcharts--110)" d="M 1563 227 A 4 4 0 1 1 1563.0039999993332 226.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1932.5367354375985"
+		<path fill="#d568fb" d="M 1563 227 A 4 4 0 1 1 1563.0039999993332 226.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1932.5367354375985"
 		      class="highcharts-point highcharts-color-5"></path>
-		<path fill="url(#highcharts--109)" d="M 1569 176 A 4 4 0 1 1 1569.0039999993332 175.99999800000018 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1938.3242567165382"
+		<path fill="#6b8abc" d="M 1569 176 A 4 4 0 1 1 1569.0039999993332 175.99999800000018 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1938.3242567165382"
 		      class="highcharts-point highcharts-color-4"></path>
-		<path fill="url(#highcharts--109)" d="M 1555 312 A 4 4 0 1 1 1555.0039999993332 311.9999980000002 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1946.8157166495869"
+		<path fill="#6b8abc" d="M 1555 312 A 4 4 0 1 1 1555.0039999993332 311.9999980000002 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1946.8157166495869"
 		      class="highcharts-point highcharts-color-4"></path>
-		<path fill="url(#highcharts--111)" d="M 1576 103 A 4 4 0 1 1 1576.0039999993332 102.99999800000016 Z"
-		      stroke="#ffffff" stroke-width="0" opacity="1" data-z-index="1969.3229460853258"
+		<path fill="#2ee0ca" d="M 1576 103 A 4 4 0 1 1 1576.0039999993332 102.99999800000016 Z" stroke="#ffffff"
+		      stroke-width="0" opacity="1" data-z-index="1969.3229460853258"
 		      class="highcharts-point highcharts-color-6"></path>
 	</g>
 </g>
@@ -612,7 +572,7 @@
 	      style="color: rgb(51, 51, 51); cursor: default; font-size: 0.8em; fill: rgb(51, 51, 51);">10
 	</text>
 </g>
-<g class="highcharts-control-points" data-z-index="99" clip-path="url(#highcharts--115-)"></g>
+<g class="highcharts-control-points" data-z-index="99" clip-path="url(#highcharts--105-)"></g>
 <g stroke-linejoin="round" class="highcharts-3d-frame highcharts-3d-frame-top" data-z-index="1000">
 	<path fill="rgba(25,25,125,0.2)"
 	      d="M 505.567302110118 72.95192313584396 L 1918.3942533300474 148.36653037501796 L 1977.89647130764 191.92103399185197 L 354.2480936709395 84.901354227105 Z"
